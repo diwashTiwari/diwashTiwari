@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **front-end development**
 
-- 📫 How to reach me **tpramila46@gmail.com**
+- 📫 How to reach me **tdiwash1534@gmail.com**
 
 - ⚡ Fun fact **I am funny 😅🤣**
 
