@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/t_diwash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leo_diwas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diwash-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwash-tiwari" height="30" width="40" /></a>
-<a href="https://fb.com/leo diwash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leo diwash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
