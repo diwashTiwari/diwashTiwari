@@ -10,9 +10,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/diwash-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwash-tiwari" height="30" width="32" /></a>
-</p>
+<a href="https://linkedin.com/in/diwash-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwash-tiwari"  height="32" width="32" /></a>
 
 ### 🛠 &nbsp; Technologies I have been working with recently.
 
