@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/diwashTiwari/diwashTiwari/main/diwash_banner.gif "Header")](https://tdiwash.vercel.app/)
+[![Header](https://raw.githubusercontent.com/diwashTiwari/diwashTiwari/main/diwash_banner.gif "Header")](https://diwashtiwari.com/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
